@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(
+        90deg,
+        rgba(255, 255, 0) 0%,
+        rgba(230, 0, 0) 54%,
+        rgba(0, 64, 128) 82%
+      );
+}
+
+img.img-thumbnail{
+    width: 80%;
+    height: 80%;
+}
+h2{
+    color:white;
+}
+
+#series{
+
+    margin-left: 50px;
+}
